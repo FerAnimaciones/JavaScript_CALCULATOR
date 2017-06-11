@@ -68,7 +68,7 @@
     if(input.value.length== 0){
       input.value=0;
     }
-    else {
+    else { 
       input.value=eval(valor);
     }
   }
